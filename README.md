@@ -1,6 +1,7 @@
 # CYBRING audit reports
 This repository contains a collection of security audit reports conducted by CYBRING.
 
+* [Defusion Token EVM](https://github.com/cybring-xyz/audit-reports/blob/main/Defusion-Token-EVM-audit-report.pdf)
 * [Saros Token EVM](https://github.com/cybring-xyz/audit-reports/blob/main/Saros-Token-EVM-audit-report.pdf)
 * Dagora Marketplace (confidential)
 * [Saros Liquidity Book - v1.2](https://github.com/cybring-xyz/audit-reports/blob/main/Saros-Liquidity-Book-audit-report.pdf)
