@@ -1,6 +1,10 @@
 # CYBRING audit reports
 This repository contains a collection of security audit reports conducted by CYBRING.
 
+* [Ferra Aggregator](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-aggregator-final-audit-report.pdf)
+* [Ferra DLMM](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-dlmm-final-audit-report.pdf)
+* [Ferra CLMM](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-clmm-final-audit-report.pdf)
+* [Ferra SDKs](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-sdk-final-audit-report.pdf)
 * [OneID Token EVM](https://github.com/cybring-xyz/audit-reports/blob/main/OneID-Token-EVM-audit-report.pdf)
 * [Dagora Token EVM](https://github.com/cybring-xyz/audit-reports/blob/main/Dagora-Token-EVM-audit-report.pdf)
 * [Eternals Token EVM](https://github.com/cybring-xyz/audit-reports/blob/main/Eternals-Token-EVM-audit-report.pdf)
