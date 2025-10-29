@@ -1,6 +1,7 @@
 # CYBRING audit reports
 This repository contains a collection of security audit reports conducted by CYBRING.
 
+* [Saros DLMM Reward](https://github.com/cybring-xyz/audit-reports/blob/main/Saros-DLMM-Reward-final-audit-report.pdf)
 * [Ferra Indexer Prices](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-indexer-prices-final-audit-report.pdf)
 * [Ferra Node Indexer](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-node-indexer-final-audit-report.pdf)
 * [Ferra Aggregator](https://github.com/cybring-xyz/audit-reports/blob/main/Ferra-aggregator-final-audit-report.pdf)
